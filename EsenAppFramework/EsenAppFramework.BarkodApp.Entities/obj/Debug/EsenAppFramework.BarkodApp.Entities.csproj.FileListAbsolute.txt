@@ -1,0 +1,10 @@
+M:\barkod uygulamsı\app\BarkodUygulaması\EsenAppFramework\EsenAppFramework.BarkodApp.Entities\bin\Debug\EsenAppFramework.BarkodApp.Entities.dll
+M:\barkod uygulamsı\app\BarkodUygulaması\EsenAppFramework\EsenAppFramework.BarkodApp.Entities\bin\Debug\EsenAppFramework.BarkodApp.Entities.pdb
+M:\barkod uygulamsı\app\BarkodUygulaması\EsenAppFramework\EsenAppFramework.BarkodApp.Entities\bin\Debug\EsenAppFramework.Core.dll
+M:\barkod uygulamsı\app\BarkodUygulaması\EsenAppFramework\EsenAppFramework.BarkodApp.Entities\bin\Debug\EsenAppFramework.Core.pdb
+M:\barkod uygulamsı\app\BarkodUygulaması\EsenAppFramework\EsenAppFramework.BarkodApp.Entities\bin\Debug\EsenAppFramework.Core.dll.config
+M:\barkod uygulamsı\app\BarkodUygulaması\EsenAppFramework\EsenAppFramework.BarkodApp.Entities\obj\Debug\EsenAppFramework.BarkodApp.Entities.csprojAssemblyReference.cache
+M:\barkod uygulamsı\app\BarkodUygulaması\EsenAppFramework\EsenAppFramework.BarkodApp.Entities\obj\Debug\EsenAppFramework.BarkodApp.Entities.csproj.CoreCompileInputs.cache
+M:\barkod uygulamsı\app\BarkodUygulaması\EsenAppFramework\EsenAppFramework.BarkodApp.Entities\obj\Debug\EsenAppFramework.BarkodApp.Entities.csproj.CopyComplete
+M:\barkod uygulamsı\app\BarkodUygulaması\EsenAppFramework\EsenAppFramework.BarkodApp.Entities\obj\Debug\EsenAppFramework.BarkodApp.Entities.dll
+M:\barkod uygulamsı\app\BarkodUygulaması\EsenAppFramework\EsenAppFramework.BarkodApp.Entities\obj\Debug\EsenAppFramework.BarkodApp.Entities.pdb

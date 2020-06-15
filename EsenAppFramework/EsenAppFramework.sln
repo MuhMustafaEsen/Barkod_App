@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsenAppFramework.Core", "EsenAppFramework.Core\EsenAppFramework.Core.csproj", "{7E720F76-993C-45F7-888E-8969AE1093D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsenAppFramework.BarkodApp.DataAccess", "EsenAppFramework.BarkodApp.DataAccess\EsenAppFramework.BarkodApp.DataAccess.csproj", "{FAB5DFAA-8C7E-4A7B-9842-AE3C80F8F49F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsenAppFramework.BarkodApp.Entities", "EsenAppFramework.BarkodApp.Entities\EsenAppFramework.BarkodApp.Entities.csproj", "{A83213C0-2993-451F-A36E-F011BF31E7F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsenAppFramework.BarkodApp.UI", "EsenAppFramework.BarkodApp.UI\EsenAppFramework.BarkodApp.UI.csproj", "{7197F370-1EDD-470F-A61B-9056ADEEC43B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BarkodApp", "BarkodApp\BarkodApp.vdproj", "{15998098-008C-4FF9-8E0A-6B4081C192CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E720F76-993C-45F7-888E-8969AE1093D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E720F76-993C-45F7-888E-8969AE1093D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E720F76-993C-45F7-888E-8969AE1093D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E720F76-993C-45F7-888E-8969AE1093D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB5DFAA-8C7E-4A7B-9842-AE3C80F8F49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB5DFAA-8C7E-4A7B-9842-AE3C80F8F49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB5DFAA-8C7E-4A7B-9842-AE3C80F8F49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB5DFAA-8C7E-4A7B-9842-AE3C80F8F49F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A83213C0-2993-451F-A36E-F011BF31E7F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83213C0-2993-451F-A36E-F011BF31E7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83213C0-2993-451F-A36E-F011BF31E7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83213C0-2993-451F-A36E-F011BF31E7F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7197F370-1EDD-470F-A61B-9056ADEEC43B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7197F370-1EDD-470F-A61B-9056ADEEC43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7197F370-1EDD-470F-A61B-9056ADEEC43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7197F370-1EDD-470F-A61B-9056ADEEC43B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15998098-008C-4FF9-8E0A-6B4081C192CF}.Debug|Any CPU.ActiveCfg = Debug
+		{15998098-008C-4FF9-8E0A-6B4081C192CF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AC27BBB-E8D8-41B2-9558-5016DBD38D30}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/mesen42
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EsenAppFramework.BarkodApp.DataAccess\\EsenAppFramework.BarkodApp.DataAccess.csproj
+		SccProjectName1 = EsenAppFramework.BarkodApp.DataAccess
+		SccLocalPath1 = EsenAppFramework.BarkodApp.DataAccess
+		SccProjectUniqueName2 = EsenAppFramework.BarkodApp.Entities\\EsenAppFramework.BarkodApp.Entities.csproj
+		SccProjectName2 = EsenAppFramework.BarkodApp.Entities
+		SccLocalPath2 = EsenAppFramework.BarkodApp.Entities
+		SccProjectUniqueName3 = EsenAppFramework.BarkodApp.UI\\EsenAppFramework.BarkodApp.UI.csproj
+		SccProjectName3 = EsenAppFramework.BarkodApp.UI
+		SccLocalPath3 = EsenAppFramework.BarkodApp.UI
+		SccProjectUniqueName4 = EsenAppFramework.Core\\EsenAppFramework.Core.csproj
+		SccProjectName4 = EsenAppFramework.Core
+		SccLocalPath4 = EsenAppFramework.Core
+		SccProjectUniqueName5 = BarkodApp\\BarkodApp.vdproj
+		SccProjectName5 = BarkodApp
+		SccLocalPath5 = BarkodApp
+	EndGlobalSection
+EndGlobal
